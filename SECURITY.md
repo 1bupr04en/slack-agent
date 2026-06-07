@@ -2,7 +2,7 @@
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability in Agent Slouch Mode, please **do not** open a public issue. Instead, please email us at security@example.com with:
+If you discover a security vulnerability in Agent Slouch Mode, please **do not** open a public issue. Instead, please email us at Ibuprofen753@outlook.com with:
 
 1. Description of the vulnerability
 2. Steps to reproduce (if applicable)
@@ -53,7 +53,7 @@ We use the following dependency management practices:
 
 ## Questions?
 
-For security-related questions, please contact: security@example.com
+For security-related questions, please contact: Ibuprofen753@outlook.com
 
 ---
 
