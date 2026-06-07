@@ -216,10 +216,10 @@ For detailed Claude Desktop setup instructions, see [docs/DEPLOY_CLAUDE.md](docs
 Example usage in Claude:
 
 ```
-"Check if I'm paused"           ?ï¿½ calls get_status()
-"Pause my work"                 ?ï¿½ calls manual_pause()
-"Resume working"                ?ï¿½ calls manual_resume()
-"Set timeout to 2 minutes"      ?ï¿½ calls set_leave_timeout(120)
+"Check if I'm paused"           ?ú calls get_status()
+"Pause my work"                 ?ú calls manual_pause()
+"Resume working"                ?ú calls manual_resume()
+"Set timeout to 2 minutes"      ?ú calls set_leave_timeout(120)
 ```
 
 ## Development
@@ -292,11 +292,11 @@ For full development guide, see [docs/DEVELOPMENT.md](docs/DEVELOPMENT.md).
 1. Check Claude version (3.x required)
 2. Verify config syntax using JSON validator
 3. Restart Claude Desktop
-4. See [docs/DEPLOY_CLAUDE.md](docs/DEPLOY_CLAUDE.md) ?ï¿½ Troubleshooting
+4. See [docs/DEPLOY_CLAUDE.md](docs/DEPLOY_CLAUDE.md) ?ú Troubleshooting
 
 ### Camera Not Working
 
-1. Check Windows Settings ?ï¿½ Privacy ?ï¿½ Camera
+1. Check Windows Settings ?ú Privacy ?ú Camera
 2. Enable Python in camera permissions
 3. Test: `python -c "import cv2; cv2.VideoCapture(0)"`
 
